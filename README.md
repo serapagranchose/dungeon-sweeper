@@ -1,3 +1,5 @@
+<img src="icon.png" align="right" />
+
 # Dungeon Sweeper
 
 A 2D game that mix the dungeon crawler genre and the game mine sweaper
