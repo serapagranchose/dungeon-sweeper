@@ -7,13 +7,13 @@ A 2D game that mix the dungeon crawler genre and the game mine sweaper
 ## Made:
 
 - **Of:**
-    - GDScript: An high-level language similar to Python made for Godot
+    - [GDScript](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/index.html): An high-level language similar to Python made for Godot
 - **With:**
-    - Godot: A framework to build 2D and 3D cross-platform games
-    - DungeonTileset Ⅱ: A 16x16 pixel tileset made by 0x72 [(source)](https://0x72.itch.io/dungeontileset-ii)
-    - Love: A secret ingredient that I put in every project
+    - [Godot](https://docs.godotengine.org/en/stable/index.html): A framework to build 2D and 3D cross-platform games
+    - [DungeonTileset Ⅱ](https://0x72.itch.io/dungeontileset-ii): A 16x16 pixel tileset made by 0x72
+    - [Love](https://rebrand.ly/r1ckr0l13r): A secret ingredient that I put in every project
 - **For:**
-    - Me: A developper who likes to learn by making
+    - [Me](https://github.com/serapagranchose): A developper who likes to learn by making
     - Hackathon Windows Game: An event to challenge Epitech students in a game making competition under 93 hours 12
     - Players: Peoples who plays games
 
