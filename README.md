@@ -1,4 +1,4 @@
-<img src="icon.png" align="right" />
+<img src="icon.png" width="75" height="75" align="right"/>
 
 # Dungeon Sweeper
 
