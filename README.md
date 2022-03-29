@@ -1,4 +1,3 @@
-```markdown
 ### Description:
 A 2D game that mix the dungeon crawler genre and the game mine sweaper
 
@@ -29,10 +28,10 @@ A 2D game that mix the dungeon crawler genre and the game mine sweaper
 
 - New features:
     - [ ] Remove multiple crates at once
+    - [ ] Items
     - [ ] Main menu
         - [ ] Play button
         - [ ] Exit button
         - [ ] Option button
         - [ ] Menu wallpaper
         - [ ] Menu music
-```
