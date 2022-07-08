@@ -2,7 +2,7 @@
 
 # Dungeon Sweeper
 
-A 2D game that mix the dungeon crawler genre and the game mine sweaper
+A game that makes you control a knight in a misty dungeon filled with monsters
 
 ## Made:
 
