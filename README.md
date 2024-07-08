@@ -1,8 +1,11 @@
-<img src="icon.png" width="75" height="75" align="right"/>
+<div align="center">
+  <a href="https://github.com/serapagranchose/dungeon-sweeper">
+    <img src="assets/images/thumbnail.gif" alt="thumbnail" width="750">
+  </a>
 
-# Dungeon Sweeper
-
-A game that makes you control a knight in a misty dungeon filled with monsters
+  <h1>Dungeon Sweeper</h1>
+  <p>A game that makes you control a knight in a misty dungeon filled with monsters.</p>
+</div>
 
 ## Made:
 
